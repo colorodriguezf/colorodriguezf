@@ -1,4 +1,4 @@
-### Hi there, my name is Julian Rodriguez Farias 👋
+### Hola, soy Julian Rodriguez Farias 👋
 
 <!--
 **colorodriguezf/colorodriguezf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
