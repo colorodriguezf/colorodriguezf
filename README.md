@@ -36,10 +36,14 @@
   <img src="https://img.shields.io/badge/API%20REST-5EC1EE?style=for-the-badge&logo=api&logoColor=white&labelColor=101010" height="28"/>
 </p>
 
+### 🎨 Diseño
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="40"/>
+</p>
+
 ### 🧰 Herramientas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" title="Git" width="40"/>
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="40"/>
 </p>
 
 #### Donde encontrarme:
